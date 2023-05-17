@@ -1,13 +1,6 @@
-{
-    "$schema": "./code-nasa-schema.json",
-    "measurementType": {
-        "method": "linesOfCode"
-    },
-    "version": "2.0.0",
-    "agency": "NASA",
-    "releases": [
-        {
-            "repositoryURL": "https://software.nasa.gov/software/ARC-12015-1",
+    [
+		{
+			"repositoryURL": "https://software.nasa.gov/software/ARC-12015-1",
             "name": "Image-Adapted Visually Weighted Quantization Matrices for Digital Image Compression (DCTune)",
             "tags": [
                 "NASA",
@@ -72874,4 +72867,3 @@
             "local-id": "912c33a3-8261-40f7-b02f-30c7f5001d4e"
         }
     ]
-}
