@@ -423,8 +423,8 @@
           <similarity>NOUN</similarity>
           <subsequence>NOUN</subsequence>
           <symbol>NOUN</symbol>
-          <technology>NOUN</technology><(_lcs>NOUN_CHUNK
-        </(_lcs>
+          <technology>NOUN</technology>
+		<_lcs>NOUN_CHUNK</_lcs>
         <detailed_analysis>NOUN_CHUNK</detailed_analysis>
         <exist_algorithm>NOUN_CHUNK</exist_algorithm>
         <high_-_dimensional_symbol_sequence>NOUN_CHUNK</high_-_dimensional_symbol_sequence>
@@ -876,7 +876,7 @@ can therefore be parallelized for faster execution.
         <experimental_control_suite>NOUN_CHUNK</experimental_control_suite>
         <grow_decision_tree>NOUN_CHUNK</grow_decision_tree>
         <ind_-_implement_part>NOUN_CHUNK</ind_-_implement_part>
-        <new_,_sophisticated_method>NOUN_CHUNK</new_,_sophisticated_method>
+        <new_sophisticated_method>NOUN_CHUNK</new_sophisticated_method>
         <recursive_-_partition_algorithm>NOUN_CHUNK</recursive_-_partition_algorithm>
         <statistical_pattern_recognition>NOUN_CHUNK</statistical_pattern_recognition>
       </features>
@@ -1400,7 +1400,7 @@ can therefore be parallelized for faster execution.
         <system>NOUN</system>
         <algorithm_schema>NOUN_CHUNK</algorithm_schema>
         <bayesian_network>NOUN_CHUNK</bayesian_network>
-        <code_'s_generation>NOUN_CHUNK</code_'s_generation>
+        <codes_generation>NOUN_CHUNK</codes_generation>
         <datum_analysis>NOUN_CHUNK</datum_analysis>
         <efficient_customize_program>NOUN_CHUNK</efficient_customize_program>
         <extended_bayesian_network>NOUN_CHUNK</extended_bayesian_network>
@@ -1608,7 +1608,7 @@ can therefore be parallelized for faster execution.
         <tool>NOUN</tool>
         <user>NOUN</user>
         <variable>NOUN</variable>
-        <algorithm_'s_capability>NOUN_CHUNK</algorithm_'s_capability>
+        <algorithms_capability>NOUN_CHUNK</algorithms_capability>
         <massive_dataset>NOUN_CHUNK</massive_dataset>
         <multiple_aviation_safety_expert>NOUN_CHUNK</multiple_aviation_safety_expert>
         <multiple_variable>NOUN_CHUNK</multiple_variable>
@@ -2076,7 +2076,7 @@ can therefore be parallelized for faster execution.
         <analysis>NOUN</analysis>
         <application>NOUN</application>
         <architecture>NOUN</architecture>
-        <c++>PROPN</c++>
+        <cpp>PROPN</cpp>
         <capability>NOUN</capability>
         <computer>NOUN</computer>
         <development>NOUN</development>
@@ -2098,18 +2098,18 @@ can therefore be parallelized for faster execution.
         <vision>NOUN</vision>
         <vw>PROPN</vw>
         <workbench>PROPN</workbench>
-        <2d/3d_environment_reconstruction>NOUN_CHUNK</2d/3d_environment_reconstruction>
+        <two_d_three_d_environment_reconstruction>NOUN_CHUNK</two_d_three_d_environment_reconstruction>
         <VW_-_Vision_Workbench>ACRONYM</VW_-_Vision_Workbench>
         <automate_science>NOUN_CHUNK</automate_science>
         <computer_vision_application>NOUN_CHUNK</computer_vision_application>
         <dataflow_architecture>NOUN_CHUNK</dataflow_architecture>
         <engineering_analysis>NOUN_CHUNK</engineering_analysis>
-        <flexible_,_multi_-_platform_system>NOUN_CHUNK</flexible_,_multi_-_platform_system>
+        <flexible_multi_platform_system>NOUN_CHUNK</flexible_multi_platform_system>
         <image_-_process_pipeline>NOUN_CHUNK</image_-_process_pipeline>
         <large_satellite_image_processing>NOUN_CHUNK</large_satellite_image_processing>
-        <modular_,_extensible_computer_vision_framework>NOUN_CHUNK</modular_,_extensible_computer_vision_framework>
+        <modular_extensible_computer_vision_framework>NOUN_CHUNK</modular_extensible_computer_vision_framework>
         <new_capability>NOUN_CHUNK</new_capability>
-        <rapid_c++_development_environment>NOUN_CHUNK</rapid_c++_development_environment>
+        <rapid_cpp_development_environment>NOUN_CHUNK</rapid_cpp_development_environment>
         <the_framework>NOUN_CHUNK</the_framework>
         <the_module_interface>NOUN_CHUNK</the_module_interface>
         <vision_workbench>NOUN_CHUNK</vision_workbench>
@@ -3148,7 +3148,7 @@ can therefore be parallelized for faster execution.
         <value>NOUN</value>
         <wallace>PROPN</wallace>
         <al_2016>ENT</al_2016>
-        <climate_landscape_response_(_clare_)_metric>NOUN_CHUNK</climate_landscape_response_(_clare_)_metric>
+        <climate_landscape_response_clare_metric>NOUN_CHUNK</climate_landscape_response_clare_metric>
         <correlation_value>NOUN_CHUNK</correlation_value>
         <pixel_-_wise_regression_analysis>NOUN_CHUNK</pixel_-_wise_regression_analysis>
         <pixelwise_correlation_-_base_landscape_classification>NOUN_CHUNK</pixelwise_correlation_-_base_landscape_classification>
@@ -4202,8 +4202,8 @@ can therefore be parallelized for faster execution.
         <states>PROPN</states>
         <topcoder>PROPN</topcoder>
         <united>PROPN</united>
-        <waste>NOUN</waste><(_cms_)_challenge>NOUN_CHUNK
-      </(_cms_)_challenge>
+        <waste>NOUN</waste><cms_challenge>NOUN_CHUNK
+      </cms_challenge>
       <CoECI_-_Center_of_Excellence_for_Collaboration>ACRONYM</CoECI_-_Center_of_Excellence_for_Collaboration>
       <HFPP_-_Healthcare_Fraud_Prevention_Partnership>ACRONYM</HFPP_-_Healthcare_Fraud_Prevention_Partnership>
       <center_of_excellence_for_collaboration>ENT</center_of_excellence_for_collaboration>
@@ -4211,8 +4211,8 @@ can therefore be parallelized for faster execution.
       <healthcare_fraud_prevention_partnership>NOUN_CHUNK</healthcare_fraud_prevention_partnership>
       <healthcare_insurance_-_pay_entity>NOUN_CHUNK</healthcare_insurance_-_pay_entity>
       <medicaid_services>NOUN_CHUNK</medicaid_services>
-      <medicare_&_medicaid_services>ENT</medicare_&_medicaid_services>
-      <nasa_'s_center>NOUN_CHUNK</nasa_'s_center>
+      <medicare_and_medicaid_services>ENT</medicare_and_medicaid_services>
+      <nasa_s_center>NOUN_CHUNK</nasa_s_center>
       <public_private_sector>NOUN_CHUNK</public_private_sector>
       <the_healthcare_fraud_prevention_partnership>ENT</the_healthcare_fraud_prevention_partnership>
       <united_states_centers>NOUN_CHUNK</united_states_centers>
@@ -4738,7 +4738,7 @@ can therefore be parallelized for faster execution.
       <water>NOUN</water>
       <USVI_-_United_States_Virgin_Islands>ACRONYM</USVI_-_United_States_Virgin_Islands>
       <classification_point>NOUN_CHUNK</classification_point>
-      <forest_/_shrub>NOUN_CHUNK</forest_/_shrub>
+      <forest_shrub>NOUN_CHUNK</forest_shrub>
       <google_earth_engine_code_interface>NOUN_CHUNK</google_earth_engine_code_interface>
       <high_-_density_residential>NOUN_CHUNK</high_-_density_residential>
       <land_use>NOUN_CHUNK</land_use>
@@ -4985,8 +4985,8 @@ can therefore be parallelized for faster execution.
       <situ>NOUN</situ>
       <spring>NOUN</spring>
       <table>NOUN</table>
-      <winter>NOUN</winter><(_log>NOUN_CHUNK
-    </(_log>
+      <winter>NOUN</winter><log>NOUN_CHUNK
+    </log>
     <calibration_model>NOUN_CHUNK</calibration_model>
     <datum_table>NOUN_CHUNK</datum_table>
     <field_season>NOUN_CHUNK</field_season>
@@ -5166,9 +5166,9 @@ can therefore be parallelized for faster execution.
     <value>NOUN</value>
     <variety>NOUN</variety>
     <year>NOUN</year>
-    <10_-_15_year>NOUN_CHUNK</10_-_15_year>
-    <8_image_collection>NOUN_CHUNK</8_image_collection>
-    <8_reference_image_collection>NOUN_CHUNK</8_reference_image_collection>
+    <ten_fifteen_year>NOUN_CHUNK</ten_fifteen_year>
+    <eight_image_collection>NOUN_CHUNK</eight_image_collection>
+    <eight_reference_image_collection>NOUN_CHUNK</eight_reference_image_collection>
     <a_type>NOUN_CHUNK</a_type>
     <average_sea_-_level>NOUN_CHUNK</average_sea_-_level>
     <classification_map>NOUN_CHUNK</classification_map>
@@ -5179,9 +5179,9 @@ can therefore be parallelized for faster execution.
     <general_type>NOUN_CHUNK</general_type>
     <google_earth_inspector>ENT</google_earth_inspector>
     <google_earth_inspector_tab>NOUN_CHUNK</google_earth_inspector_tab>
-    <landsat_5>ENT</landsat_5>
-    <landsat_5_&_8>ENT</landsat_5_&_8>
-    <landsat_8>ENT</landsat_8>
+    <landsat_five>ENT</landsat_five>
+    <landsat_five_and_eight>ENT</landsat_five_and_eight>
+    <landsat_eight>ENT</landsat_eight>
     <later_date>NOUN_CHUNK</later_date>
     <marsh_extent>NOUN_CHUNK</marsh_extent>
     <marsh_extent_map>NOUN_CHUNK</marsh_extent_map>
